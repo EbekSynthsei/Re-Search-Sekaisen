@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "type": "file",
+      "ctime": 1713195917921,
+      "path": "Characters/Characters.md",
+      "title": "Characters"
+    },
+    {
+      "type": "file",
+      "ctime": 1713195926241,
+      "path": "Lore/Cultura Generica/Cultura generica.md",
+      "title": "Cultura Generica"
+    },
+    {
+      "type": "file",
+      "ctime": 1713195935689,
+      "path": "Factions/Factions.md",
+      "title": "Factions"
+    },
+    {
+      "type": "file",
+      "ctime": 1713195945577,
+      "path": "Location/Location.md",
+      "title": "Location"
+    }
+  ]
+}

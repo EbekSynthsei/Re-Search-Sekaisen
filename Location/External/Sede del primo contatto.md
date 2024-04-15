@@ -1,0 +1,1 @@
+Area Spaziale meta antica di pellegrinaggio nella cultura degli [[Esterni]] , che ritengono sacro il suolo del pianeta orbitante, al punto da permettere solo ad automi la discesa sul posto.

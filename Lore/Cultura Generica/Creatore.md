@@ -1,0 +1,1 @@
+Il fine della [[Storia]] è quello di invitare alla comunanza di intenti al di là delle differenze. La risposta all'esistenza o meno del Creatore è ciò che, una volta rivelata l'origine condivisa dell'umanità, dovrebbe appiattire le differenze ed enfatizzare invece i pregi di ogni fazione [[Factions]] . 

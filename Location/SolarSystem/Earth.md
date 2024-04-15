@@ -1,0 +1,3 @@
+La terra, con l'arrivo dell'[[Era Colonica]] è diventata un conglomerato di acciaio vetro e cemento che deforma la vista a cui siamo abituati oltre l'immaginabile.
+L'aggiunta di materiali reperiti su [[Belt]] e lungo tutto il sistema, ha reso il globo più simile ad un asteroide alla Krakatoa (?) che ad un globo.
+La vita non è mai riuscita ad appoggiarsi realmente sui pianeti esterni nonostante ora siano "amichevoli " come atmosfera, per via di un infinità di piccole problematiche che a lungo termine risultano in difetti genetici e patologie da gravità intensi.

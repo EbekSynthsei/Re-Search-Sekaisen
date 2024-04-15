@@ -1,0 +1,2 @@
+Il Primo Contatto si riferisce all'incontro che il nostro [[Fixer]] vivrà durante la [[Storia]], andando verso la [[Sede del primo contatto]].
+La cultura dei [[Solariani]] e quella degli [[Esterni]] infatti non conoscono l'esistenza l'una dell'altra fino al momento in cui si svolge il [[Primo Episodio]] 

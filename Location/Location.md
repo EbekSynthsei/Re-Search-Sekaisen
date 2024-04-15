@@ -1,0 +1,6 @@
+[[Earth]]
+[[Mars]]
+[[Belt]]
+[[PianetaMadreEsterni]]
+[[PianetaMadreMilitocrazia]]
+[[Sede del primo contatto]]

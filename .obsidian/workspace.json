@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "87c9236d379ed718",
+    "type": "split",
+    "children": [
+      {
+        "id": "a438221bed002e88",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f1bc982351464aa2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "13f5d36689d21e4d",
+    "type": "split",
+    "children": [
+      {
+        "id": "71ef50ffff805189",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "08a5583d4b9143d6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "71c76c231eaad90c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "56abac217417c8b2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 307.5
+  },
+  "right": {
+    "id": "a1b514538a3794ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "9914436fa595e3e2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed67e88111c4c893",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "aa2c629d02087105",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2b2c81cd88431c54",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a404d7dc3188d7a2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "71c76c231eaad90c",
+  "lastOpenFiles": [
+    "Obsidian",
+    "Lore/Cultura Generica/Cultura generica.md",
+    "Factions/Solariani.md",
+    "Factions/Militocrazia.md",
+    "Characters/Characters.md",
+    "Location/SolarSystem/Belt.md",
+    "Location/Location.md",
+    "Storia/Storia.md",
+    "Storia/Primo Contatto.md",
+    "Storia/Episodi/Terzo Episodio.md",
+    "Storia/Episodi/Secondo Episodio.md",
+    "Storia/Episodi/Primo Episodio.md",
+    "Lore/Lore.md",
+    "Lore/Lore Solariana/Lore Solariana.md",
+    "Lore/Lore Solariana/Era Colonica.md",
+    "Factions/Factions.md",
+    "Lore/Cultura Generica/Domande.md",
+    "Lore/Cultura Generica/Saluti.md",
+    "Lore/Cultura Generica/Modi di dire.md",
+    "Lore Esterna.md",
+    "Lore/Lore Militocratica/Lore Militocratica.md",
+    "Lore/Lore Militocratica",
+    "Lore/Lore Esterna",
+    "Lore/Lore Solariana",
+    "Factions/Esterni.md",
+    "Lore/Cultura Generica/Creatore.md",
+    "Gameplay/Movimento/WallRun.md",
+    "Gameplay/Movimento/Movimento.md",
+    "Gameplay/Gameplay.md",
+    "Characters/Militanti",
+    "Characters/Esterni",
+    "Characters/Solariani",
+    "Lore",
+    "Untitled.canvas",
+    "Storia/Episodi",
+    "Location/Militocracy",
+    "Location/External"
+  ]
+}
