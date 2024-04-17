@@ -1,0 +1,1 @@
+Periodo storico indefinito del prossimo futuro in cui i [[Coloni]] dell'umanità della Terra [[Earth]] raggiunge finalmente Marte [[Mars]] e la Cintura [[Belt]] . E' anche la fase in cui l'umanità scopre il [[Viaggio]]

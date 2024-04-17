@@ -1,3 +1,7 @@
 Raccolta della Lore dei [[Solariani]]
 
-[[Era Colonica]]
+[[Era delle Corporations]]
+[[Corporations]]
+
+
+[[Era dei Coloni]]

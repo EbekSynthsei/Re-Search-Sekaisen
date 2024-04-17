@@ -1,0 +1,7 @@
+- Daring - Cautious
+- Thinker - Action-Driven
+- Consistent - Inconsistent
+- Content - Restless
+- Altruistic - Self-Centered
+- Practical - Theoretical
+- Respected - Ignored

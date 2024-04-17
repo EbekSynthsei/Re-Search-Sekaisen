@@ -1,1 +1,0 @@
-Periodo storico indefinito del prossimo futuro in cui gli abitanti dell'umanità della Terra [[Earth]] raggiunge finalmente Marte [[Mars]] e la Cintura [[Belt]] 

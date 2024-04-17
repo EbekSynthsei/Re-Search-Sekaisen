@@ -1,1 +1,3 @@
-Area Spaziale meta antica di pellegrinaggio nella cultura degli [[Esterni]] , che ritengono sacro il suolo del pianeta orbitante, al punto da permettere solo ad automi la discesa sul posto.
+Area Spaziale meta antica di pellegrinaggio nella cultura degli [[Esterni]] , che ritengono sacro il suolo del pianeta orbitante, al punto da permettere solo ad automi la discesa sul posto e solo per motivi di studio, ogni visitatore rimane in orbita.
+La stella presso cui orbita è infatti in movimento parallelo rispetto a quella del [[PianetaMadreEsterni]] e la cultura da un valore intenso a questa condizione.
+L'incontro con i [[Solariani]] avvenuto attraverso il [[Fixer]] e il [[Pilot]] verrà visto in modo molto conflittuale all'interno della comunità degli [[Esterni]], portando alla luce nuove presenze di [[Immodesti]].

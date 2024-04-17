@@ -1,8 +1,11 @@
+##### [[Solariani]]
+- [[Fixer]]
 
-[[Solariani]]
-[[Fixer]]
+##### [[Esterni]]
+- [[Pilot]]
 
-[[Esterni]]
+##### [[Militocrazia]]
 
+##### [[Coloni]]
 
-[[Militocrazia]]
+##### [[Character Traits]] 

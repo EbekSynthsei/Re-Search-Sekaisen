@@ -1,1 +1,1 @@
-Casa degli [[Esterni]]
+Casa degli [[Esterni]] , nemica dei loro figli [[Immodesti]] , pianeta dove si svolgono le [[Era dell'Apertura]] e [[Era degli Immodesti]] 
