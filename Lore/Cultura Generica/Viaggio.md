@@ -11,4 +11,5 @@ Con le ricerche sulla **gravità emergente**, nuovi approcci alla meccanica stat
 Nessuno seppe dire cosa significasse, finché un ratto non venne ritrovato inglobato in un tostapane a qualche isolato di distanza da un laboratorio di Marte [[Mars]].
 Le esperienze di scoperta non furono molto diverse su [[PianetaMadreEsterni]] e [[PianetaMadreMilitocrazia]] .
 
-
+Utils
+[[Collettore di Shift di Fase]]

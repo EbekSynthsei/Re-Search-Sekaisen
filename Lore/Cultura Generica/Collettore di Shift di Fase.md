@@ -1,0 +1,1 @@
+Dispositivo palesemente inventato per giustificare problemi all'iniziare un [[Viaggio]] .

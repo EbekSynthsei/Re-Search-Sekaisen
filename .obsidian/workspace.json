@@ -11,8 +11,12 @@
             "id": "f1bc982351464aa2",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Storia/Episodi/Primo Episodio.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -61,8 +65,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -82,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Storia/Episodi/Primo Episodio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Storia/Episodi/Primo Episodio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,64 +124,65 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Storia/Episodi/Primo Episodio.md"
+              }
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false
     }
   },
-  "active": "71c76c231eaad90c",
+  "active": "f1bc982351464aa2",
   "lastOpenFiles": [
-    "Obsidian",
+    "Capitoli del primo episodio.md",
+    "Untitled.canvas",
+    "Storia/Episodi/Primo Episodio.md",
+    "Nave del Fixer.md",
+    "Assets/Tools/Guides.md",
+    "Assets/Tools/ASEPRITE.md",
+    "Lore/Cultura Generica/Viaggio.md",
+    "Lore/Cultura Generica/Collettore di Shift di Fase.md",
     "Lore/Cultura Generica/Cultura generica.md",
+    "Storia/Storia.md",
+    "Gameplay/Gameplay.md",
+    "Assets/Tools/PIXEL STUDIO.md",
+    "Assets/Game Art Inspiration/MyDrawing.jpg",
+    "Obsidian",
     "Factions/Solariani.md",
     "Factions/Militocrazia.md",
     "Characters/Characters.md",
     "Location/SolarSystem/Belt.md",
     "Location/Location.md",
-    "Storia/Storia.md",
     "Storia/Primo Contatto.md",
     "Storia/Episodi/Terzo Episodio.md",
     "Storia/Episodi/Secondo Episodio.md",
-    "Storia/Episodi/Primo Episodio.md",
     "Lore/Lore.md",
     "Lore/Lore Solariana/Lore Solariana.md",
     "Lore/Lore Solariana/Era Colonica.md",
     "Factions/Factions.md",
     "Lore/Cultura Generica/Domande.md",
     "Lore/Cultura Generica/Saluti.md",
-    "Lore/Cultura Generica/Modi di dire.md",
-    "Lore Esterna.md",
-    "Lore/Lore Militocratica/Lore Militocratica.md",
     "Lore/Lore Militocratica",
     "Lore/Lore Esterna",
     "Lore/Lore Solariana",
-    "Factions/Esterni.md",
-    "Lore/Cultura Generica/Creatore.md",
-    "Gameplay/Movimento/WallRun.md",
-    "Gameplay/Movimento/Movimento.md",
-    "Gameplay/Gameplay.md",
     "Characters/Militanti",
     "Characters/Esterni",
     "Characters/Solariani",
     "Lore",
-    "Untitled.canvas",
     "Storia/Episodi",
-    "Location/Militocracy",
-    "Location/External"
+    "Location/Militocracy"
   ]
 }
