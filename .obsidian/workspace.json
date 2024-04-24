@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Assets/Tools/Jira script.md",
+                "file": "Capitoli del primo episodio.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Tools/Jira script.md",
+                "file": "Capitoli del primo episodio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assets/Tools/Jira script.md",
+                "file": "Capitoli del primo episodio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/Tools/Jira script.md"
+                "file": "Capitoli del primo episodio.md"
               }
             }
           }
@@ -147,24 +147,27 @@
   },
   "active": "874c070f6589dd20",
   "lastOpenFiles": [
-    "Assets/Tools/JIRA.md",
+    "Struttura.md",
+    "Nave del Fixer.md",
+    "Untitled.canvas",
     "Assets/Tools/GIT.md",
+    "Assets/Tools/Guides.md",
+    "Assets/Tools/ASEPRITE.md",
+    "Assets/Game Art Inspiration/MyDrawing.jpg",
+    "Assets/Game Art Inspiration/PixelStudio/Pixel Studio/Bozzabot.png",
+    "Assets/Game Art Inspiration/PixelStudio/Pixel Studio/bozza base character.png",
     "Assets/Tools/Jira script.md",
+    "Assets/Tools/JIRA.md",
     "Assets/Tools/JiraScript.sh",
     "Assets/Tools/Unity.md",
     "Capitoli del primo episodio.md",
     "Storia/Episodi/Primo Episodio.md",
-    "Untitled.canvas",
-    "Nave del Fixer.md",
-    "Assets/Tools/Guides.md",
-    "Assets/Tools/ASEPRITE.md",
     "Lore/Cultura Generica/Viaggio.md",
     "Lore/Cultura Generica/Collettore di Shift di Fase.md",
     "Lore/Cultura Generica/Cultura generica.md",
     "Storia/Storia.md",
     "Gameplay/Gameplay.md",
     "Assets/Tools/PIXEL STUDIO.md",
-    "Assets/Game Art Inspiration/MyDrawing.jpg",
     "Obsidian",
     "Factions/Solariani.md",
     "Factions/Militocrazia.md",
