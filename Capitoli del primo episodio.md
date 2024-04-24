@@ -15,3 +15,7 @@ Con una lunga serie di scontri con automi già dediti allo smantellamento della 
 In un mix di lotta e furtività, il nostro [[Fixer]] riesce ad introdursi in quella che sembra essere una zona di lancio degli [[Esterni]] .
 Il terrore dell'ignoto e la speranza di una via di fuga si mescolano in lui, mentre piccoli indizi gli mostrano una realtà aliena ogni istante più simile ad una versione alternativa dell'Umantà.
 Nel momento in cui si decide a tentare di appropiarsi di una nave, scoprirà invece che essa è proprietà del [[Pilot]] . Quello che inizialmente sembra il primo alieno non automa, si rivelerà essere un essere umano.
+Il [[Fixer]] verrà sconfitto dal [[Pilot]] che lo imprigionerà, capendo che non è un Soldato della [[Militocrazia]] , ma comunque una potenziale minaccia.
+##### Il Linguaggio
+Un lungo interrogatorio lascia comprendere agli [[Esterni]] che l'origine del [[Fixer]] è una nuova umanità, che finora era rimasta celata in un settore remoto della Galassia.
+Affidandolo al [[Pilot]], come responsabile della sua protezione e istruzione, il[[Fixer]] verrà guidato al cospetto 

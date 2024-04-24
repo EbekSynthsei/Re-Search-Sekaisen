@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a438221bed002e88",
+        "id": "a1b6c5bed528e20f",
         "type": "tabs",
         "children": [
           {
-            "id": "f1bc982351464aa2",
+            "id": "874c070f6589dd20",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Storia/Episodi/Primo Episodio.md",
+                "file": "Assets/Tools/Jira script.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Storia/Episodi/Primo Episodio.md",
+                "file": "Assets/Tools/Jira script.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Storia/Episodi/Primo Episodio.md",
+                "file": "Assets/Tools/Jira script.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Storia/Episodi/Primo Episodio.md"
+                "file": "Assets/Tools/Jira script.md"
               }
             }
           }
@@ -145,11 +145,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f1bc982351464aa2",
+  "active": "874c070f6589dd20",
   "lastOpenFiles": [
+    "Assets/Tools/JIRA.md",
+    "Assets/Tools/GIT.md",
+    "Assets/Tools/Jira script.md",
+    "Assets/Tools/JiraScript.sh",
+    "Assets/Tools/Unity.md",
     "Capitoli del primo episodio.md",
-    "Untitled.canvas",
     "Storia/Episodi/Primo Episodio.md",
+    "Untitled.canvas",
     "Nave del Fixer.md",
     "Assets/Tools/Guides.md",
     "Assets/Tools/ASEPRITE.md",
@@ -171,10 +176,6 @@
     "Storia/Episodi/Secondo Episodio.md",
     "Lore/Lore.md",
     "Lore/Lore Solariana/Lore Solariana.md",
-    "Lore/Lore Solariana/Era Colonica.md",
-    "Factions/Factions.md",
-    "Lore/Cultura Generica/Domande.md",
-    "Lore/Cultura Generica/Saluti.md",
     "Lore/Lore Militocratica",
     "Lore/Lore Esterna",
     "Lore/Lore Solariana",
@@ -182,7 +183,6 @@
     "Characters/Esterni",
     "Characters/Solariani",
     "Lore",
-    "Storia/Episodi",
-    "Location/Militocracy"
+    "Storia/Episodi"
   ]
 }
