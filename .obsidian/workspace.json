@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Capitoli del primo episodio.md",
+                "file": "Market/Market.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Capitoli del primo episodio.md",
+                "file": "Market/Market.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Capitoli del primo episodio.md",
+                "file": "Market/Market.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Capitoli del primo episodio.md"
+                "file": "Market/Market.md"
               }
             }
           }
@@ -147,6 +147,10 @@
   },
   "active": "874c070f6589dd20",
   "lastOpenFiles": [
+    "Lore/Cultura Generica/Modi di dire.md",
+    "Lore/Lore Solariana/Era delle Corporations.md",
+    "Market/Market.md",
+    "Capitoli del primo episodio.md",
     "Struttura.md",
     "Nave del Fixer.md",
     "Untitled.canvas",
@@ -160,7 +164,6 @@
     "Assets/Tools/JIRA.md",
     "Assets/Tools/JiraScript.sh",
     "Assets/Tools/Unity.md",
-    "Capitoli del primo episodio.md",
     "Storia/Episodi/Primo Episodio.md",
     "Lore/Cultura Generica/Viaggio.md",
     "Lore/Cultura Generica/Collettore di Shift di Fase.md",
@@ -176,9 +179,6 @@
     "Location/Location.md",
     "Storia/Primo Contatto.md",
     "Storia/Episodi/Terzo Episodio.md",
-    "Storia/Episodi/Secondo Episodio.md",
-    "Lore/Lore.md",
-    "Lore/Lore Solariana/Lore Solariana.md",
     "Lore/Lore Militocratica",
     "Lore/Lore Esterna",
     "Lore/Lore Solariana",

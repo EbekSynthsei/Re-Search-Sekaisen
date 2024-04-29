@@ -11,6 +11,15 @@ La curva di distribuzione della revenue è esponenziale
 Market
 Tra le principali differenze nell'approccio al Market tra amateur e professional nell'area del Marketing è l'approccio "Anxiety Marketing" vs "Engineered Effectivness and High Reach Promotion", l' organic social media marketing funziona solo per circa l'1% del totale, la magnitudine d'impatto è troppo bassa.
 Bisogna infatti analizzare l'Audience per definire i target che il gioco deve raggiungere per soddisfarla e attrarla
+
+
+Engineered Acctrattivness aka 
+
+Understand your taget audience
+Unerstand what matters to them
+Deliver the expected
+Communicate that delivery 
+,
 Scoping
 
 Too big or too boring vs Rigged Arena + Long Term Alignement
