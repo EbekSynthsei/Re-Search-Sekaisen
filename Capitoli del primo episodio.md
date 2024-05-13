@@ -1,6 +1,6 @@
 ##### Preludio
 Facciamo la conoscenza del nostro [[Fixer]] e della [[Nave del Fixer]], quando gli viene assegnata dalle [[Corporations]] una missione, vista come fastidiosa e poco remunerativa.
-Il [[Fixer]], si dirigerà in missione con la [[Nave del Fixer]] dopo aver sistemato il [[Collettore di Shift di Fase]], nel Settore spaziale dove è locata la [[Sede del primo contatto]] per un recupero e, come da nome del personaggio, riparazione.
+Il [[Fixer]], si dirigerà in missione con la [[Nave del Fixer]], dopo aver sistemato il [[Collettore di Shift di Fase]], nel Settore spaziale dove è locata la [[Sede del primo contatto]] per un recupero e, come da nome del personaggio, riparazione.
 Un anomalia ha causato infatti lo schianto di uno dei satelliti esplorativi, lanciato in questa zona remota in funzione di alcune analisi minerarie eseguite da alcuni Osservatori dei [[Solariani]].
 ##### L'arrivo
 Scoprirà inveece che il satellite non ha subito incidenti ma è stato abbattuto da un sistema difensivo.
