@@ -4,6 +4,7 @@ PIXEL ART CHARACTER DESIGNS : https://www.youtube.com/watch?v=V2bAarQ2Tek&ab_cha
 [[PIXEL STUDIO]]
 [[GIT]]
 [[INKSCAPE]]
+[[JIRA]]
 [[Unity]]
 [[WWISE]]
 [[Obsidian]]
