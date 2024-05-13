@@ -6,3 +6,4 @@ PIXEL ART CHARACTER DESIGNS : https://www.youtube.com/watch?v=V2bAarQ2Tek&ab_cha
 [[INKSCAPE]]
 [[Unity]]
 [[WWISE]]
+[[Obsidian]]
