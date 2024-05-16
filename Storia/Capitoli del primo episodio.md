@@ -7,7 +7,7 @@ Un anomalia ha causato infatti lo schianto di uno dei satelliti esplorativi, lan
 ---
 ##### L'arrivo
 Scoprirà invece che il satellite non ha subito incidenti ma è stato abbattuto da un sistema difensivo.
-Non farà in tempo però a segnalare la realtà dei fatti perchè la sua nave verrà danneggiata e costretta ad un'atterraggio di emergenza, tra il fuoco incrociato di torrette automatiche.
+Non farà in tempo però a segnalare la realtà dei fatti perchè la sua nave verrà danneggiata e costretta ad un'atterraggio di emergenza[^1], tra il fuoco incrociato di torrette automatiche.
 Il [[Void]] intorno alla [[Sede del primo contatto]] è infatti spazio degli [[Esterni]], i cui sistemi, non sapendo interpretare la firma del motore della [[Nave del Fixer]], lo scambiano per un missile della [[Militocrazia]], attualmente in conflitto attivo con gli [[Esterni]] presso il pianeta, per le risorse minerarie. 
 Una volta a terra, la sua sarà una corsa alla ricerca di un riparo su questo pianeta, dove poter accamparsi per pianificare la sua sopravvivenza. 
 
@@ -30,3 +30,5 @@ Un lungo interrogatorio, (in cui viene realizzata una traduzione rudimentale del
 Affidandolo al [[Pilot]], come responsabile della sua protezione e istruzione, il [[Fixer]] verrà guidato in una serie di test genetici, fisici e attitudinali per determinare le differenze tra le razze, rivelando la quasi identità delle due. 
 Questo però non piace all'[[Antagonist]] , che, temendo i [[Solariani]] possano diventare una nuova minaccia per la loro cultura, decide di procedere a eliminare ogni traccia dell'esistenza del [[Fixer]].
 
+
+[^1]: [[TitanFall Mood.jpg]]
