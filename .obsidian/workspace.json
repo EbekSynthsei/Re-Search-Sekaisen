@@ -11,11 +11,9 @@
             "id": "874c070f6589dd20",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Market/Market.md",
-                "mode": "source",
-                "source": false
+                "file": "Assets/Game Art Inspiration/City Concepts.jpg"
               }
             }
           }
@@ -85,7 +83,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Market/Market.md",
+                "file": "Assets/Game Art Inspiration/City Concepts.jpg",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Market/Market.md",
+                "file": "Assets/Game Art Inspiration/City Concepts.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +123,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Market/Market.md"
+                "file": "Assets/Game Art Inspiration/City Concepts.jpg"
               }
             }
           }
@@ -145,47 +143,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "874c070f6589dd20",
+  "active": "08a5583d4b9143d6",
   "lastOpenFiles": [
+    "Assets/Game Art Inspiration/SailShip.webp",
+    "Assets/Game Art Inspiration/SailShip.webp.crdownload",
+    "Assets/Tools/Templates/Tabella.md",
+    "Assets/Game Art Inspiration/External Dropship.jpg",
+    "Assets/Game Art Inspiration/External Dropship.jpg.crdownload",
+    "Assets/Game Art Inspiration/Solarian City - StreetView.jpg",
+    "Assets/Game Art Inspiration/Solarian City - StreetView.jpg.crdownload",
+    "Assets/Game Art Inspiration/External Turrets.jpg",
+    "Assets/Game Art Inspiration/External Turrets.jpg.crdownload",
+    "Assets/Game Art Inspiration/PaletteStudy.jpg",
+    "Assets/Game Art Inspiration/PaletteStudy.jpg.crdownload",
+    "Assets/Game Art Inspiration/Solarian Colonies.jpg",
+    "Assets/Game Art Inspiration/Solarian Colonies.jpg.crdownload",
+    "Assets/Game Art Inspiration/City Concepts.jpg",
+    "Assets/Game Art Inspiration/City Concepts.jpg.crdownload",
+    "Assets/Game Art Inspiration/External Landscape.jpg",
+    "Assets/Game Art Inspiration/External Landscape.jpg.crdownload",
+    "Assets/Game Art Inspiration/ExternalShip.jpg",
+    "Assets/Game Art Inspiration/ExternalShip.jpg.crdownload",
+    "Assets/Game Art Inspiration/IdlePose.jpg",
+    "Assets/Game Art Inspiration/IdlePose.jpg.crdownload",
+    "Assets/Game Art Inspiration/Solarian Industries.jpg",
+    "Assets/Tools/Templates/Templates.md",
+    "Assets/Tools/ASEPRITE.md",
+    "Assets/Tools/GIT.md",
+    "Assets/Tools/Guides.md",
+    "Assets/Tools/JIRA.md",
+    "Assets/Tools/Obsidian.md",
+    "Assets/Tools/PIXEL STUDIO.md",
+    "Assets/Tools/Prompts.md",
+    "Assets/Tools/Unity.md",
+    "Assets/Assets.md",
+    "Market/Market.md",
     "Lore/Cultura Generica/Modi di dire.md",
     "Lore/Lore Solariana/Era delle Corporations.md",
-    "Market/Market.md",
     "Capitoli del primo episodio.md",
     "Struttura.md",
     "Nave del Fixer.md",
     "Untitled.canvas",
-    "Assets/Tools/GIT.md",
-    "Assets/Tools/Guides.md",
-    "Assets/Tools/ASEPRITE.md",
-    "Assets/Game Art Inspiration/MyDrawing.jpg",
-    "Assets/Game Art Inspiration/PixelStudio/Pixel Studio/Bozzabot.png",
-    "Assets/Game Art Inspiration/PixelStudio/Pixel Studio/bozza base character.png",
     "Assets/Tools/Jira script.md",
-    "Assets/Tools/JIRA.md",
-    "Assets/Tools/JiraScript.sh",
-    "Assets/Tools/Unity.md",
     "Storia/Episodi/Primo Episodio.md",
     "Lore/Cultura Generica/Viaggio.md",
     "Lore/Cultura Generica/Collettore di Shift di Fase.md",
     "Lore/Cultura Generica/Cultura generica.md",
     "Storia/Storia.md",
     "Gameplay/Gameplay.md",
-    "Assets/Tools/PIXEL STUDIO.md",
-    "Obsidian",
-    "Factions/Solariani.md",
-    "Factions/Militocrazia.md",
-    "Characters/Characters.md",
-    "Location/SolarSystem/Belt.md",
-    "Location/Location.md",
-    "Storia/Primo Contatto.md",
-    "Storia/Episodi/Terzo Episodio.md",
-    "Lore/Lore Militocratica",
-    "Lore/Lore Esterna",
-    "Lore/Lore Solariana",
-    "Characters/Militanti",
-    "Characters/Esterni",
-    "Characters/Solariani",
-    "Lore",
-    "Storia/Episodi"
+    "Factions/Solariani.md"
   ]
 }
