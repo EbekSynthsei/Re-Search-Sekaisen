@@ -13,7 +13,7 @@ Una volta a terra, la sua sarà una corsa alla ricerca di un riparo su questo pi
 
 ---
 ##### Il Martello
-Il [[Fixer]] ritorna alla [[Nave del Fixer]] per cercare di recuperare strumenti di comunicazione a lungo raggio con cui segnalare la presenza degli [[Esterni]] , di cui i [[Solariani]] ignorano ancora l'esiistenza. 
+Il [[Fixer]] ritorna alla [[Nave del Fixer]] per cercare di recuperare strumenti di comunicazione a lungo raggio con cui segnalare la presenza degli [[Esterni]] , di cui i [[Solariani]] ignorano ancora l'esistenza. 
 Con una lunga serie di scontri con automi già dediti allo smantellamento della [[Nave del Fixer]], riuscirà a recuperare alcuni pezzi essenziali, ma non avendo fonti di energia sufficienti ed essendo i segnali schermati, capirà di non avere altra opzione se non quella di provare ad introdursi nelle stazioni degli automi, nell'estremo tentativo di salvarsi la pelle.
 
 ---
@@ -21,12 +21,12 @@ Con una lunga serie di scontri con automi già dediti allo smantellamento della 
 ##### Il [[Primo Contatto]]
 In un mix di lotta e furtività, il nostro [[Fixer]] riesce ad introdursi in quella che sembra essere una zona di lancio degli [[Esterni]] .
 Il terrore dell'ignoto e la speranza di una via di fuga si mescolano in lui, mentre piccoli indizi gli mostrano una realtà aliena ogni istante più simile ad una versione alternativa dell'Umantà.
-Nel momento in cui si decide a tentare di appropiarsi di una nave, pur sapendo potrebbe non riuscire ad utilzzarla, e scoprirà che essa è proprietà del [[Pilot]] . Quello che inizialmente sembra il primo alieno non automa, si rivelerà essere un essere umano.che apendo che non è un Soldato della [[Militocrazia]] , ma comunque una potenziale minaccia.
+Nel momento in cui si decide a tentare di appropiarsi di una nave, pur sapendo potrebbe non riuscire ad utilzzarla, scoprirà che essa è proprietà del [[Pilot]] . Quello che inizialmente sembra il primo alieno non automa, si rivelerà essere un essere umano. Egli/Ella capirà che il [[Fixer]] non è un Soldato della [[Militocrazia]] , ma lo percepirá comunque come una potenziale minaccia.
 
 ---
 
 ##### Il Linguaggio
-Un lungo interrogatorio, (in cui viene realizzata una traduzione rudimentale del linguaggio degli [[Esterni]] mostrando immagini al [[Fixer]]) lascia comprendere agli [[Esterni]] che l'origine del [[Fixer]] è una nuova umanità, che finora era rimasta celata in un settore remoto della Galassia, ovvero i [[Solariani]].
+Un lungo interrogatorio, (in cui viene realizzata una traduzione rudimentale del linguaggio degli [[Esterni]], mostrando immagini al [[Fixer]]) lascia comprendere agli [[Esterni]] che l'origine del [[Fixer]] è una nuova umanità, che finora era rimasta celata in un settore remoto della Galassia, ovvero i [[Solariani]].
 Affidandolo al [[Pilot]], come responsabile della sua protezione e istruzione, il [[Fixer]] verrà guidato in una serie di test genetici, fisici e attitudinali per determinare le differenze tra le razze, rivelando la quasi identità delle due. 
 Questo però non piace all'[[Antagonist]] , che, temendo i [[Solariani]] possano diventare una nuova minaccia per la loro cultura, decide di procedere a eliminare ogni traccia dell'esistenza del [[Fixer]].
 
