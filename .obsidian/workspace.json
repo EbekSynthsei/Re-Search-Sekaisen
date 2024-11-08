@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "a1b6c5bed528e20f",
+        "id": "576d8a5e0600c742",
         "type": "tabs",
         "children": [
           {
-            "id": "874c070f6589dd20",
+            "id": "a4821169f7028b37",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Assets/Game Art Inspiration/City Concepts.jpg"
-              }
+                "file": "Gameplay/Action Blocks/Time Challenge.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Time Challenge"
             }
           }
         ]
@@ -37,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -52,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -60,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -83,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Assets/Game Art Inspiration/City Concepts.jpg",
+                "file": "Gameplay/Action Blocks/Time Challenge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -91,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Time Challenge"
             }
           },
           {
@@ -103,7 +115,9 @@
                 "file": "Assets/Game Art Inspiration/City Concepts.jpg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from City Concepts"
             }
           },
           {
@@ -114,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -124,7 +140,9 @@
               "type": "outline",
               "state": {
                 "file": "Assets/Game Art Inspiration/City Concepts.jpg"
-              }
+              },
+              "icon": "lucide-list",
+              "title": "Outline of City Concepts"
             }
           }
         ]
@@ -145,52 +163,52 @@
   },
   "active": "08a5583d4b9143d6",
   "lastOpenFiles": [
-    "Assets/Game Art Inspiration/SailShip.webp",
-    "Assets/Game Art Inspiration/SailShip.webp.crdownload",
-    "Assets/Tools/Templates/Tabella.md",
-    "Assets/Game Art Inspiration/External Dropship.jpg",
-    "Assets/Game Art Inspiration/External Dropship.jpg.crdownload",
-    "Assets/Game Art Inspiration/Solarian City - StreetView.jpg",
-    "Assets/Game Art Inspiration/Solarian City - StreetView.jpg.crdownload",
-    "Assets/Game Art Inspiration/External Turrets.jpg",
-    "Assets/Game Art Inspiration/External Turrets.jpg.crdownload",
-    "Assets/Game Art Inspiration/PaletteStudy.jpg",
-    "Assets/Game Art Inspiration/PaletteStudy.jpg.crdownload",
-    "Assets/Game Art Inspiration/Solarian Colonies.jpg",
-    "Assets/Game Art Inspiration/Solarian Colonies.jpg.crdownload",
-    "Assets/Game Art Inspiration/City Concepts.jpg",
-    "Assets/Game Art Inspiration/City Concepts.jpg.crdownload",
-    "Assets/Game Art Inspiration/External Landscape.jpg",
-    "Assets/Game Art Inspiration/External Landscape.jpg.crdownload",
-    "Assets/Game Art Inspiration/ExternalShip.jpg",
-    "Assets/Game Art Inspiration/ExternalShip.jpg.crdownload",
-    "Assets/Game Art Inspiration/IdlePose.jpg",
-    "Assets/Game Art Inspiration/IdlePose.jpg.crdownload",
-    "Assets/Game Art Inspiration/Solarian Industries.jpg",
-    "Assets/Tools/Templates/Templates.md",
-    "Assets/Tools/ASEPRITE.md",
-    "Assets/Tools/GIT.md",
-    "Assets/Tools/Guides.md",
-    "Assets/Tools/JIRA.md",
-    "Assets/Tools/Obsidian.md",
-    "Assets/Tools/PIXEL STUDIO.md",
-    "Assets/Tools/Prompts.md",
-    "Assets/Tools/Unity.md",
-    "Assets/Assets.md",
-    "Market/Market.md",
-    "Lore/Cultura Generica/Modi di dire.md",
-    "Lore/Lore Solariana/Era delle Corporations.md",
-    "Capitoli del primo episodio.md",
-    "Struttura.md",
-    "Nave del Fixer.md",
-    "Untitled.canvas",
-    "Assets/Tools/Jira script.md",
-    "Storia/Episodi/Primo Episodio.md",
-    "Lore/Cultura Generica/Viaggio.md",
-    "Lore/Cultura Generica/Collettore di Shift di Fase.md",
-    "Lore/Cultura Generica/Cultura generica.md",
-    "Storia/Storia.md",
+    "Assets/Game Art Inspiration/Landscapes/Cont(1)_0.png",
+    "Assets/Game Art Inspiration/Landscapes/Cont(0)_0.png",
+    "Assets/Game Art Inspiration/Vehicles/PixShip(0)_0000-84%.png",
+    "Assets/Game Art Inspiration/Vehicles/PixShip(0)_0.png",
+    "Assets/Game Art Inspiration/Vehicles/PixShip(1)_0.png",
+    "Assets/Game Art Inspiration/Vehicles/PixShip(1)_1.png",
+    "Assets/Game Art Inspiration/Vehicles/PixShip(2)_0.png",
+    "Assets/Game Art Inspiration/Vehicles/PixShip(3)_0.png",
+    "Assets/Game Art Inspiration/Vehicles/PixShip(3)_1.png",
+    "Assets/Game Art Inspiration/Vehicles/PixShip(3)_2.png",
+    "Gameplay/Action Blocks/Obstacle Skipping.md",
+    "Location/Areas/Areas.md",
     "Gameplay/Gameplay.md",
-    "Factions/Solariani.md"
+    "Location/Location.md",
+    "Struttura.md",
+    "Location/Areas",
+    "Gameplay/Action Blocks/Action Blocks.md",
+    "Gameplay/Action Blocks/Platforming/Ending Point.md",
+    "Gameplay/Action Blocks/Platforming.md",
+    "Gameplay/Action Blocks/Platforming/One Pass Platform.md",
+    "Gameplay/Action Blocks/Platforming/Moving Platform.md",
+    "Gameplay/Action Blocks/Platforming/Disappearing Platform.md",
+    "Gameplay/Action Blocks/Platforming/Spring Platform.md",
+    "Gameplay/Action Blocks/Platforming/Spikey Platform.md",
+    "Gameplay/Action Blocks/Platforming/Starting Point.md",
+    "Assets/Game Art Inspiration/Landscapes/PixScape(2)_2.png",
+    "Assets/Game Art Inspiration/Landscapes",
+    "Gameplay/Action Blocks/Platforming/Platform Button.md",
+    "Gameplay/Movimento/Movimento.md",
+    "Gameplay/Action Blocks/Time Challenge.md",
+    "Gameplay/Movimento/DoubleJump.md",
+    "Gameplay/Action Blocks/Platforming",
+    "Gameplay/Movimento/WallGrab.md",
+    "Gameplay/Movimento/WallRun.md",
+    "Gameplay/Movimento/Salto.md",
+    "Assets/Game Art Inspiration/Vehicles",
+    "Storia/Capitoli del primo episodio.md",
+    "Untitled.canvas",
+    "Gameplay/Action Blocks/Arenas.md",
+    "Gameplay/Action Blocks/Mazes.md",
+    "Gameplay/Action Blocks/Puzzle Keys.md",
+    "Gameplay/Action Blocks",
+    "Assets/Game Art Inspiration/SailShip.webp.crdownload",
+    "Assets/Game Art Inspiration/External Dropship.jpg.crdownload",
+    "Assets/Game Art Inspiration/Solarian City - StreetView.jpg.crdownload",
+    "Assets/Game Art Inspiration/External Turrets.jpg.crdownload",
+    "Assets/Game Art Inspiration/PaletteStudy.jpg.crdownload"
   ]
 }

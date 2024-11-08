@@ -1,3 +1,5 @@
+[[Action Blocks]]
+[[Areas]]
 Il gameplay dovrà concentrare l'attenzione su due elementi, [[Movimento]] e [[Storia]], limitando il l'[[Inventario]] e la sua gestione durante il [[Combattimento]] al minimo necessario.
 
 Il [[Movimento]] vuole prendere ispirazione da Titanfall 2 e la conseguente fluidità di passaggi di stato. Per la corretta implementazione, alcuni giochi da prendere in considerazione possono essere Parkour con le sue dinamiche di animazione e LedgeLeap.

@@ -1,4 +1,5 @@
 [[Salto]]
+[[DoubleJump]]
 [[Slide]]
 [[Sprint]]
 [[WallGrab]]
