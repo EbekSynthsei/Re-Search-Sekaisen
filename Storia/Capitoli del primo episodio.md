@@ -1,3 +1,5 @@
+[ToC]
+
 
 ##### Preludio
 Facciamo la conoscenza del nostro [[Fixer]] e della [[Nave del Fixer]], quando gli viene assegnata dalle [[Corporations]] una missione, vista come fastidiosa e poco remunerativa.
