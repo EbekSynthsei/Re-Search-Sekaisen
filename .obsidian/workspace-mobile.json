@@ -16,7 +16,9 @@
                 "file": "Characters/Esterni/Pilot.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Pilot"
             },
             "group": "f8b2224b0b0141bf"
           }
@@ -58,7 +60,9 @@
                   "scale": 1,
                   "close": false
                 }
-              }
+              },
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             },
             "group": "f8b2224b0b0141bf"
           }
@@ -78,7 +82,9 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
         }
       },
       {
@@ -93,7 +99,9 @@
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical"
-          }
+          },
+          "icon": "lucide-search",
+          "title": "Search"
         }
       },
       {
@@ -104,7 +112,9 @@
           "state": {
             "sortOrder": "frequency",
             "useHierarchy": true
-          }
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
         }
       },
       {
@@ -112,7 +122,9 @@
         "type": "leaf",
         "state": {
           "type": "bookmarks",
-          "state": {}
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
         }
       }
     ],
@@ -136,7 +148,9 @@
             "searchQuery": "",
             "backlinkCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
         }
       },
       {
@@ -148,7 +162,9 @@
             "file": "Characters/Esterni/Pilot.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
-          }
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
         }
       },
       {
@@ -158,7 +174,9 @@
           "type": "outline",
           "state": {
             "file": "Characters/Esterni/Pilot.md"
-          }
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
         }
       }
     ],
@@ -174,8 +192,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "bf3982eb9e885053",
+  "active": "354b8cc09a5ed62e",
   "lastOpenFiles": [
+    "Assets/Tools/termux.properties",
     "Storia/Capitoli del primo episodio.md",
     "Characters/Esterni/Pilot.md",
     "Location/Militocracy/PianetaMadreMilitocrazia.md",
