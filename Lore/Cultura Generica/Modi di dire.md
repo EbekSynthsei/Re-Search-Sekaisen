@@ -4,3 +4,6 @@ Raccolta di modi di dire per inspessire la credibilità della narrativa.
 "Fai onore al tuo equipaggiamento"
 "Hai sparato a un uomo perché non era mancino? No, ho sparato a un mancino perché non era un uomo"
 "Proietta un ratto"([[Viaggio]])
+"Quanto poco la vita era privata"
+
+"L'autorità dei sofferenti" 
