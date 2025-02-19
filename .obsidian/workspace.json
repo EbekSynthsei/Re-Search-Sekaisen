@@ -4,24 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "be05d67238ae6ff9",
+        "id": "44b2de6b0efa6c87",
         "type": "tabs",
         "children": [
           {
-            "id": "6f2ff4e8277a8c49",
+            "id": "78868b0c61f04a76",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Projects/Fabric Workflows/Basic Script Youtube Transcript.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Basic Script Youtube Transcript"
+              "title": "Nuova scheda"
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -44,7 +41,7 @@
                 "autoReveal": true
               },
               "icon": "lucide-folder-closed",
-              "title": "Files"
+              "title": "Esplora risorse"
             }
           },
           {
@@ -61,7 +58,7 @@
                 "sortOrder": "alphabetical"
               },
               "icon": "lucide-search",
-              "title": "Search"
+              "title": "Ricerca"
             }
           },
           {
@@ -78,7 +75,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.5
+    "width": 200
   },
   "right": {
     "id": "a1b514538a3794ba",
@@ -94,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 - Projects/Fabric Workflows/Basic Script Youtube Transcript.md",
+                "file": "03 - Resources/Tools/ComfyUI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +101,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Basic Script Youtube Transcript"
+              "title": "Backlinks for ComfyUI"
             }
           },
           {
@@ -113,12 +110,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 - Projects/Fabric Workflows/Basic Script Youtube Transcript.md",
+                "file": "03 - Resources/Tools/ComfyUI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Basic Script Youtube Transcript"
+              "title": "Outgoing links from ComfyUI"
             }
           },
           {
@@ -133,7 +130,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-tags",
-              "title": "Tags"
+              "title": "Etichette"
             }
           },
           {
@@ -142,13 +139,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 - Projects/Fabric Workflows/Basic Script Youtube Transcript.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Basic Script Youtube Transcript"
+              "title": "Struttura"
             }
           },
           {
@@ -168,11 +164,11 @@
               "type": "review-queue-list-view",
               "state": {},
               "icon": "SpacedRepIcon",
-              "title": "Notes Review Queue"
+              "title": "Coda di note da rivedere"
             }
           },
           {
-            "id": "07e5b42c2471022d",
+            "id": "9172e5e3394d3057",
             "type": "leaf",
             "state": {
               "type": "fabric-view",
@@ -182,66 +178,66 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 393.5
+    "width": 279.5
   },
   "left-ribbon": {
     "hiddenItems": {
-      "graph:Open graph view": false,
-      "switcher:Open quick switcher": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "zk-prefixer:Create new unique note": false,
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false,
+      "zk-prefixer:Nuova nota univoca": false,
+      "obsidian-spaced-repetition:Rivisita schede": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "templater-obsidian:Templater": false,
-      "obsidian-spaced-repetition:Review flashcards": false,
       "unofficial-fabric-integration:Fabric": false
     }
   },
-  "active": "07e5b42c2471022d",
+  "active": "78868b0c61f04a76",
   "lastOpenFiles": [
-    "CustomFabricPattern/humanize_ai.md",
-    "CustomFabricPattern/search_engine.md",
-    "CustomFabricPattern/determine_ai_chance.md",
-    "CustomFabricPattern/extract_meeting_minutes.md",
+    "01 - Projects/Coding Lessons Archilabò/Bozza Slides Scratch AI e Coding.md",
+    "01 - Projects/Research VideoGame/Storia/Storia.md",
+    "01 - Projects/Coding Lessons Archilabò/Struttura Corso Scratch IA e Coding Creativo.md",
+    "06 - Daily/2025-02-19.md",
+    "01 - Projects/Coding Lessons Archilabò/Struttura Corso Coding Medie.md",
+    "FabricOutputs/Scratch AI e Coding Creativo.md",
+    "03 - Resources/VideosAndTranscripts",
+    "01 - Projects/Research VideoGame/Storia/Episodi/Terzo Episodio.md",
+    "01 - Projects/Research VideoGame/Storia/Episodi/Secondo Episodio.md",
+    "01 - Projects/Research VideoGame/Storia/Episodi/Primo Episodio.md",
+    "01 - Projects/Research VideoGame/Storia/Capitoli del primo episodio.md",
+    "01 - Projects/Research VideoGame/Storia/Obiettivo.md",
+    "01 - Projects/Research VideoGame/Storia/Primo Contatto.md",
+    "01 - Projects/Research VideoGame/Struttura.md",
+    "01 - Projects/Research VideoGame/Void.md",
+    "01 - Projects/Research VideoGame/Gameplay/Movimento/DoubleJump.md",
+    "01 - Projects/Research VideoGame/Gameplay/Inventario/Inventario.md",
+    "01 - Projects/Research VideoGame/Gameplay/Inventario/Batteries.md",
+    "01 - Projects/Research VideoGame/Gameplay/Combattimento/Combattimento.md",
+    "01 - Projects/Research VideoGame/Gameplay/Combattimento/ShootOut.md",
+    "01 - Projects/Research VideoGame/Gameplay/Combattimento/CQB.md",
+    "01 - Projects/Research VideoGame/Gameplay/Action Blocks/Platforming/Spikey Platform.md",
+    "01 - Projects/Research VideoGame/Gameplay/Action Blocks/Platforming/Platform Button.md",
+    "01 - Projects/Research VideoGame/Gameplay/Action Blocks/Platforming/Moving Platform.md",
+    "01 - Projects/Research VideoGame/Gameplay/Action Blocks/Platforming/Ending Point.md",
+    "01 - Projects/Research VideoGame/Gameplay/Action Blocks/Platforming/Disappearing Platform.md",
+    "01 - Projects/Research VideoGame/Gameplay/Action Blocks/Action Blocks.md",
+    "02 - Areas/PixelArt",
     "03 - Resources/output.txt",
-    "03 - Resources/CodingTrain - createGraphics.md",
     "03 - Resources/CodingTrain-Tutorial.txt",
-    "01 - Projects/Fabric Workflows/Fabric Scripts.md",
-    "01 - Projects/Obsidian Vault Extension/Obsidian Customization.md",
-    "01 - Projects/Obsidian Vault Extension/Obsidian Shortcuts.md",
-    "01 - Projects/Fabric Workflows/Basic Script Youtube Transcript.md",
-    "CustomFabricPattern/improve_notes.md",
-    "CustomFabricPattern/extract_tutorial.md",
-    "FabricOutputs/CodingTrainVariables.md",
-    "FabricOutputs/CodingTrainVariables (1).md",
     "03 - Resources/CodingTrainTranscript 1.txt",
     "03 - Resources/CodingTrainTranscript.txt",
     "CustomFabricPattern",
     "FabricOutputs",
     "01 - Projects/CV Management",
-    "07 - Archives/Programming/Outlier DoD.md",
     "01 - Projects/Coding Lessons Archilabò",
-    "03 - Resources/Tools/ComfyUI.md",
-    "03 - Resources/Tools/Unity.md",
-    "03 - Resources/Tools/Prompts.md",
-    "03 - Resources/Tools/termux.properties.md",
-    "03 - Resources/Tools/JIRA.md",
-    "03 - Resources/Tools/PIXEL STUDIO.md",
-    "03 - Resources/Tools/Guides.md",
-    "99 - Meta/Templates/Main Template.md",
-    "03 - Resources/Tools/AI/FabricAIReadme.md",
-    "99 - Meta/Templates/Templates.md",
-    "99 - Meta/Templates/Tabella di esempio.md",
-    "99 - Meta/Templates/Tabella.md",
-    "01 - Projects/Obsidian Vault Extension",
-    "02 - Areas/Bonsai",
     "Untitled.canvas",
     "03 - Resources/Assets/Game Art Inspiration/MilitaBasement.jpg",
     "03 - Resources/Assets/Game Art Inspiration/kodaiBatteries.jpg",

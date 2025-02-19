@@ -2,9 +2,9 @@
 cssclasses: 
 tags:
   - IA
-  - ongoing
   - fabric
   - "#bash"
+  - "#done"
 date: 2025-02-19T15:10:00
 ---
 ## Description:
