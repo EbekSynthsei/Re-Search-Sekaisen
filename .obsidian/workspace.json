@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "57167180ad189b6e",
+        "id": "6b473e33350e234d",
         "type": "tabs",
         "children": [
           {
-            "id": "c5e31c64ea038c38",
+            "id": "e9d97851ab5b3faf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2025-01-03.md",
+                "file": "03 - Resources/Tools/ComfyUI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2025-01-03"
+              "title": "ComfyUI"
             }
           }
         ]
@@ -40,7 +40,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -93,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2025-01-03.md",
+                "file": "03 - Resources/Tools/ComfyUI.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +104,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2025-01-03"
+              "title": "Backlinks for ComfyUI"
             }
           },
           {
@@ -112,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Assets/Game Art Inspiration/City Concepts.jpg",
+                "file": "03 - Resources/Tools/ComfyUI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from City Concepts"
+              "title": "Outgoing links from ComfyUI"
             }
           },
           {
@@ -127,7 +128,9 @@
               "type": "tag",
               "state": {
                 "sortOrder": "frequency",
-                "useHierarchy": true
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-tags",
               "title": "Tags"
@@ -139,17 +142,41 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Assets/Game Art Inspiration/City Concepts.jpg"
+                "file": "03 - Resources/Tools/ComfyUI.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of City Concepts"
+              "title": "Outline of ComfyUI"
+            }
+          },
+          {
+            "id": "1ea015a02f9c4554",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "64832f9f27c4ccd6",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {},
+              "icon": "SpacedRepIcon",
+              "title": "Notes Review Queue"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 419.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -158,57 +185,62 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-advanced-slides:Show Slide Preview": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-spaced-repetition:Review flashcards": false
     }
   },
-  "active": "c5e31c64ea038c38",
+  "active": "e9d97851ab5b3faf",
   "lastOpenFiles": [
-    "Assets/Game Art Inspiration/MilitaBasement.jpg",
-    "2025-01-03.md",
-    "Assets/Game Art Inspiration/kodaiBatteries.jpg",
-    "Assets/Game Art Inspiration/Structure Sketches, Jose Borges _ Футуристическая архитектура, Дизайн окружающей среды, Футуристический дом.jpeg",
-    "Assets/Game Art Inspiration/Solarian Industries.jpg",
-    "Assets/Game Art Inspiration/Solarian Colonies.jpg",
-    "Assets/Game Art Inspiration/Solarian City - StreetView.jpg",
-    "Assets/Game Art Inspiration/Solarian Base.jpg",
-    "Assets/Game Art Inspiration/Solarian City.jpg",
-    "Assets/Game Art Inspiration/Train Maintanence Hall, Timo Peter.jpeg",
-    "Assets/Game Art Inspiration/Urbans.jpg",
-    "Characters/Esterni/Pilot.md",
-    "Assets/Game Art Inspiration/Landscapes/Buildings/6df21311-3649-4aaf-9ddd-551695c213e4.jpeg",
-    "Assets/Game Art Inspiration/Vehicles/Militocracy Vehicles",
-    "Assets/Game Art Inspiration/Vehicles/Solarian Vehicles",
-    "Assets/Game Art Inspiration/Vehicles/External Vehicles",
-    "Assets/Game Art Inspiration/Landscapes/Buildings",
-    "Assets/Tools/Guides.md",
-    "Assets/Tools/ComfyUI.md",
-    "Storia/Capitoli del primo episodio.md",
-    "Storia/Primo Contatto.md",
-    "Factions/Esterni/Esterni.md",
-    "Characters/Solariani/Fixer.md",
-    "Assets/Tools/AI/FabricAIReadme.md",
-    "Assets/Tools/AI",
-    "Assets/Tools/GIT.md",
-    "Assets/Game Art Inspiration/Concepts/Ti diamo il benvenuto su Concepts/Disegno 2.concepts",
-    "Assets/Tools/Templates/Main Template.md",
-    "Assets/Tools/PIXEL STUDIO.md",
-    "Assets/Tools/Prompts.md",
-    "Assets/Tools/Unity.md",
-    "Assets/Assets.md",
-    "Characters/Character Traits/Protagonist.md",
-    "Characters/Character Traits/Opponent.md",
-    "Characters/Character Traits/Dreamer.md",
-    "Characters/Character Traits/Character Traits.md",
-    "Characters/Character Traits/Assistant.md",
-    "Characters/Character Traits/Antagonist.md",
-    "Gameplay/Inventario/Batteries.md",
-    "Assets/Tools/ASEPRITE.md",
-    "Lore/Cultura Generica/Saluti.md",
-    "Lore/Cultura Generica/Cultura generica.md",
-    "Location/Areas",
-    "Assets/Game Art Inspiration/Landscapes",
-    "Gameplay/Action Blocks/Platforming",
-    "Assets/Game Art Inspiration/Vehicles",
-    "Untitled.canvas"
+    "03 - Resources/Tools/Unity.md",
+    "03 - Resources/Tools/Prompts.md",
+    "03 - Resources/Tools/termux.properties.md",
+    "03 - Resources/Tools/JIRA.md",
+    "03 - Resources/Tools/PIXEL STUDIO.md",
+    "03 - Resources/Tools/Guides.md",
+    "03 - Resources/Tools/ComfyUI.md",
+    "99 - Meta/Templates/Main Template.md",
+    "03 - Resources/Tools/AI/FabricAIReadme.md",
+    "01 - Projects/Obsidian Vault Extension/Obsidian Shortcuts.md",
+    "01 - Projects/Obsidian Vault Extension/Obsidian Customization.md",
+    "99 - Meta/Templates/Templates.md",
+    "99 - Meta/Templates/Tabella di esempio.md",
+    "99 - Meta/Templates/Tabella.md",
+    "99 - Meta/Templates/Riferimento.md",
+    "01 - Projects/Obsidian Vault Extension",
+    "03 - Resources/Tools/ASEPRITE.md",
+    "07 - Archives/Programming/Outlier DoD.md",
+    "02 - Areas/Bonsai",
+    "02 - Areas/Videogames",
+    "02 - Areas/Programming",
+    "07 - Archives/Programming",
+    "01 - Projects/Laniakea Services",
+    "01 - Projects/Mari Website",
+    "01 - Projects/Research VideoGame/Void.md",
+    "Untitled.canvas",
+    "01 - Projects/Research VideoGame/Struttura.md",
+    "02 - Areas/Market/Market.md",
+    "02 - Areas/Market/Costs.md",
+    "02 - Areas/Market/Revenue Strategies.md",
+    "01 - Projects/Research VideoGame",
+    "99 - Meta",
+    "07 - Archives",
+    "01 - Projects/Research VideoGame/Characters/Esterni/Pilot.md",
+    "03 - Resources/Assets/Game Art Inspiration/MilitaBasement.jpg",
+    "03 - Resources/Assets/Game Art Inspiration/kodaiBatteries.jpg",
+    "03 - Resources/Assets/Game Art Inspiration/Structure Sketches, Jose Borges _ Футуристическая архитектура, Дизайн окружающей среды, Футуристический дом.jpeg",
+    "03 - Resources/Assets/Game Art Inspiration/Solarian Industries.jpg",
+    "03 - Resources/Assets/Game Art Inspiration/Solarian Colonies.jpg",
+    "03 - Resources/Assets/Game Art Inspiration/Solarian City - StreetView.jpg",
+    "03 - Resources/Assets/Game Art Inspiration/Solarian Base.jpg",
+    "03 - Resources/Assets/Game Art Inspiration/Solarian City.jpg",
+    "03 - Resources/Assets/Game Art Inspiration/Train Maintanence Hall, Timo Peter.jpeg",
+    "03 - Resources/Assets/Game Art Inspiration/Urbans.jpg",
+    "01 - Projects/Research VideoGame/Storia/Capitoli del primo episodio.md",
+    "01 - Projects/Research VideoGame/Storia/Primo Contatto.md",
+    "01 - Projects/Research VideoGame/Factions/Esterni/Esterni.md"
   ]
 }
