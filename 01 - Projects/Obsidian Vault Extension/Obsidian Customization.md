@@ -32,6 +32,7 @@ Vanilla AMOLED
 - Templater - Templates but with balls
 - Iconize - Add Icons to Folders
 - Tag Wrangler - Manage Tag made easier
+- Unofficial Fabric Plugin - Integration with fabric AI (! Not Working)
 
 ## Usage: 
 
