@@ -31,6 +31,7 @@ date: 2025-02-19T15:00:00
 
 17. All'interno di un testo posso inserirla così^[Testo di riferimento o citazione per esempio ] senza problemi se non sono in una formattazione strana 
 18. **Quadre + Riferimento + Pipe + Alias** [[Riferimento | Alias]] 
+19. CTRL + SHIFT + I : DEVELOPER MODE
 ### Tips N Tricks
 
 Utilizza i template per uniformare le struttura.

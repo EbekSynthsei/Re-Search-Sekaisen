@@ -3,7 +3,7 @@
   "fabricConnectorApiKey": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
   "outputFolder": "FabricOutputs",
   "customPatternsFolder": "CustomFabricPattern",
-  "youtubeAutodetectEnabled": false,
+  "youtubeAutodetectEnabled": true,
   "audioFileAutodetectEnabled": false,
   "defaultModel": "llama3.2:latest",
   "defaultPostProcessingPattern": "",
