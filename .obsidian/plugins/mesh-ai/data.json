@@ -1,0 +1,40 @@
+{
+  "openaiApiKey": "",
+  "googleApiKey": "",
+  "microsoftApiKey": "",
+  "anthropicApiKey": "",
+  "grocqApiKey": "",
+  "tavilyApiKey": "",
+  "openrouterApiKey": "",
+  "usePerplexity": true,
+  "perplexityApiKey": "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",
+  "youtubeApiKey": "AIzaSyD_8WJUepCE_sT0IfGZYqRBfiDe11InOfI",
+  "ollamaServerUrl": "http://localhost:11434",
+  "microsoftEndpointUrl": "",
+  "selectedProvider": "ollama",
+  "selectedModel": "",
+  "providerModels": {
+    "openai": [],
+    "google": [],
+    "microsoft": [],
+    "anthropic": [],
+    "grocq": [],
+    "ollama": [
+      "llama3.1:latest"
+    ],
+    "openrouter": [],
+    "lmstudio": []
+  },
+  "customPatternsFolder": "CustomFabricPattern",
+  "fabricPatternsFolder": "CustomFabricPattern",
+  "meshOutputFolder": "FabricOutputs",
+  "patternStitchingEnabled": true,
+  "enableDebugging": true,
+  "workflows": [],
+  "lmstudioApiKey": "",
+  "lmstudioServerUrl": "http://localhost:8000",
+  "pathwaysModel": "o1-preview",
+  "pathwaysOutputFolder": "",
+  "defaultPathwayWorkflow": "",
+  "pathwaysSearchProvider": "tavily"
+}

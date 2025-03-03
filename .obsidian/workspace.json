@@ -13,30 +13,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Resources/Tools/Guides.md",
+                "file": "FabricOutputs/Majorana.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Guides"
-            }
-          },
-          {
-            "id": "f4f9a1d006c4ac8a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 - Projects/Obsidian Vault Extension/Obsidian Shortcuts.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Obsidian Shortcuts"
+              "title": "Majorana"
             }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -69,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "obsidian shor",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -90,12 +75,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 372.5
+    "width": 296.5
   },
   "right": {
     "id": "a1b514538a3794ba",
@@ -189,13 +173,13 @@
             }
           },
           {
-            "id": "c1c434f1da5fb33e",
+            "id": "16703661ea5a2da3",
             "type": "leaf",
             "state": {
-              "type": "fabric-view",
+              "type": "mesh-view",
               "state": {},
               "icon": "lucide-file",
-              "title": "Fabric"
+              "title": "Mesh AI"
             }
           }
         ],
@@ -203,7 +187,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 535.5
+    "width": 452.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -218,47 +202,47 @@
       "obsidian-excalidraw-plugin:New drawing": false,
       "obsidian-advanced-slides:Show Slide Preview": false,
       "templater-obsidian:Templater": false,
-      "unofficial-fabric-integration:Fabric": false
+      "mesh-ai:Mesh AI Integration": false
     }
   },
-  "active": "f4f9a1d006c4ac8a",
+  "active": "64832f9f27c4ccd6",
   "lastOpenFiles": [
-    "03 - Resources/Tools/Guides.md",
-    "01 - Projects/Fabric Workflows/Basic Script Youtube Transcript.md",
-    "01 - Projects/Fabric Workflows/Fabric Scripts.md",
-    "01 - Projects/Fabric Workflows/YT cmdlet powershell setup.md",
-    "01 - Projects/Coding Lessons Archilabò/Struttura Corso Coding Medie.md",
-    "01 - Projects/Coding Lessons Archilabò/Struttura Corso Scratch IA e Coding Creativo.md",
-    "01 - Projects/Obsidian Vault Extension/Obsidian Customization.md",
-    "01 - Projects/Obsidian Vault Extension/Obsidian Shortcuts.md",
-    "02 - Areas/Programming/Coding Patterns.md",
-    "03 - Resources/Tools/Unity/Scriptable Objects.md",
-    "03 - Resources/Tools/Unity/State Machine.md",
-    "03 - Resources/Tools/Termux/Termux Configuration.md",
-    "06 - Daily/2025-02-20.md",
-    "06 - Daily/2025-02-19.md",
-    "03 - Resources/Tools/Termux/termux.properties.md",
-    "03 - Resources/Tools/Termux",
-    "02 - Areas/Bonsai/Red Mapple.md",
-    "03 - Resources/Tools/VisualStudioCode/Visual Studio Code Customization.md",
-    "03 - Resources/Tools/VisualStudioCode",
-    "01 - Projects/Coding Lessons Archilabò/Bozza Slides Scratch AI e Coding.md",
-    "01 - Projects/Research VideoGame/Storia/Storia.md",
-    "FabricOutputs/Scratch AI e Coding Creativo.md",
-    "03 - Resources/VideosAndTranscripts",
-    "01 - Projects/Research VideoGame/Storia/Episodi/Terzo Episodio.md",
-    "01 - Projects/Research VideoGame/Storia/Episodi/Secondo Episodio.md",
-    "01 - Projects/Research VideoGame/Storia/Episodi/Primo Episodio.md",
-    "01 - Projects/Research VideoGame/Storia/Capitoli del primo episodio.md",
-    "01 - Projects/Research VideoGame/Storia/Obiettivo.md",
-    "01 - Projects/Research VideoGame/Storia/Primo Contatto.md",
-    "02 - Areas/PixelArt",
-    "03 - Resources/output.txt",
-    "03 - Resources/CodingTrain-Tutorial.txt",
-    "03 - Resources/CodingTrainTranscript 1.txt",
-    "03 - Resources/CodingTrainTranscript.txt",
-    "CustomFabricPattern",
-    "FabricOutputs",
+    "FabricOutputs/MajoranaOutput.md",
+    "FabricOutputs/Majorana.md",
+    "04 - Permanent/Quantistica/MicrosoftsMajorana1-AParadigmShiftTowardScalableandFault-TolerantQuantumComputing.pdf",
+    "06 - Daily/2025-02-28.md",
+    "04 - Permanent/Quantistica",
+    "CustomFabricPattern/analyze_answers.md",
+    "CustomFabricPattern/ai.md",
+    "CustomFabricPattern/agility_story.md",
+    "CustomFabricPattern/extract_instructions.md",
+    "FabricOutputs/AgentZero Docker Instructions.md",
+    "FabricOutputs/Better Platformer Controls Suggestions.md",
+    "FabricOutputs/Video About Mesh AI.md",
+    "FabricOutputs/Users installation guide for Windows, macOS and Linux.md",
+    "FabricOutputs/extract_instructions.md",
+    "FabricOutputs/CorsettoFaidate.md",
+    "01 - Projects/Coding Lessons Archilabò/Secondarie Scratch - Ravenna/Struttura Corso Scratch IA e Coding Creativo.md",
+    "01 - Projects/Coding Lessons Archilabò/Primarie IA - Ravenna/Avventure nel Mondo del Coding, della Robotica e del Tinkering.md",
+    "FabricOutputs/agility_story.md",
+    "CustomFabricPattern/write_semgrep_rule.md",
+    "CustomFabricPattern/write_pull-request.md",
+    "CustomFabricPattern/write_nuclei_template_rule.md",
+    "CustomFabricPattern/write_micro_essay.md",
+    "CustomFabricPattern/write_latex.md",
+    "CustomFabricPattern/write_hackerone_report.md",
+    "CustomFabricPattern/write_essay.md",
+    "CustomFabricPattern/tweet.md",
+    "CustomFabricPattern/translate.md",
+    "CustomFabricPattern/transcribe_minutes.md",
+    "01 - Projects/Coding Lessons Archilabò/Primarie IA - Forlì/Riepilogo corso stem (1).docx",
+    "01 - Projects/Coding Lessons Archilabò/Primarie IA - Forlì/digcomp_2.2_italiano.pdf",
+    "01 - Projects/Coding Lessons Archilabò/Primarie IA - Forlì",
+    "04 - Permanent/Scratch/EducatorGuidesAll.pdf",
+    "04 - Permanent/Scratch",
+    "01 - Projects/Coding Lessons Archilabò/Primarie IA - Ravenna",
+    "01 - Projects/Coding Lessons Archilabò/Secondarie Scratch - Ravenna",
+    "01 - Projects/Coding Lessons Archilabò/Secondarie p5js - Sant'Arcangelo",
     "Untitled.canvas",
     "03 - Resources/Assets/Game Art Inspiration/MilitaBasement.jpg",
     "03 - Resources/Assets/Game Art Inspiration/kodaiBatteries.jpg",

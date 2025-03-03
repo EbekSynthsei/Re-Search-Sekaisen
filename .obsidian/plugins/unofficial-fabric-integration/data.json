@@ -7,7 +7,7 @@
   "audioFileAutodetectEnabled": false,
   "defaultModel": "llama3.2:latest",
   "defaultPostProcessingPattern": "",
-  "debug": true,
+  "debug": false,
   "fabric2": true,
   "tavilyApiKey": ""
 }
